@@ -23,9 +23,9 @@ All possible for RaspberryPi model B GPIO used with following layout:
 |   14 | KEY_C     | Sega_Z/SNES_X       |
 |   15 | KEY_V     | Sega_A/SNES_L       |
 |   29 | KEY_S     | Home/Menue/ExitGame |
-|   31 | KEY_R,    | Sega_C/SNES_A       |
-|   28 | KEY_W,    | SNES_Select         |
-|   30 | KEY_A,    | Start               |
+|   31 | KEY_R     | Sega_C/SNES_A       |
+|   28 | KEY_W     | SNES_Select         |
+|   30 | KEY_A     | Start               |
 
 ### RetroPie 2.0+ Compatibility
 
