@@ -10,9 +10,9 @@ Pre-built version supports the default pin/key mapping shown in the tutorial. Fo
 ### Changes in current fork
 
 All possible for RaspberryPi model B GPIO used with following layout:
-------------------------------------------
+
 | GPIO | LINUX_KEY | Gamepad             |
-------------------------------------------
+| ---- |:--------- |:------------------- |
 |    2 | KEY_LEFT  | Left                |
 |    3 | KEY_RIGHT | Right               |
 |    4 | KEY_DOWN  | Down                |
@@ -26,7 +26,6 @@ All possible for RaspberryPi model B GPIO used with following layout:
 |   31 | KEY_R,    | Sega_C/SNES_A       |
 |   28 | KEY_W,    | SNES_Select         |
 |   30 | KEY_A,    | Start               |
-------------------------------------------
 
 ### RetroPie 2.0+ Compatibility
 
