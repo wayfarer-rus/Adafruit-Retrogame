@@ -95,10 +95,15 @@ struct {
 	{   3,     KEY_RIGHT    },
 	{   4,     KEY_DOWN     },
 	{  17,     KEY_UP       },
-	{  27,     KEY_Z        },   // A/Fire/jump/primary
-	{  22,     KEY_X        },   // B/Bomb/secondary
-	{  23,     KEY_R        },   // Credit
-	{  18,     KEY_Q        },   // Start 1P
+	{  27,     KEY_Z        },   // X
+	{  22,     KEY_X        },   // Y/B (Sega/SNES)
+	{  18,     KEY_Q        },   // B/B (Sega/SNES)
+    {  14,     KEY_C        },   // Z/X (Sega/SNES)
+    {  15,     KEY_V        },   // A
+    {  29,     KEY_S        },   // Home/Menue/ExitGame
+    {  31,     KEY_R,       },   // C/A (Sega/SNES)
+    {  28,     KEY_W,       },   // Select
+    {  30,     KEY_A,       },   // Start
 	{  -1,     -1           } }, // END OF LIST, DO NOT CHANGE
 	// MAME must be configured with 'z' & 'x' as buttons 1 & 2 -
 	// this was required for the accompanying 'menu' utility to
