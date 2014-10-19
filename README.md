@@ -13,19 +13,19 @@ All possible for RaspberryPi model B GPIO used with following layout:
 
 | GPIO | LINUX_KEY | Gamepad             |
 | ---- |:--------- |:------------------- |
-|    2 | KEY_LEFT  | Left                |
-|    3 | KEY_RIGHT | Right               |
-|    4 | KEY_DOWN  | Down                |
-|   17 | KEY_UP    | Up                  |
+|   28 | KEY_LEFT  | Left                |
+|   29 | KEY_RIGHT | Right               |
+|   30 | KEY_DOWN  | Down                |
+|   31 | KEY_UP    | Up                  |
 |   27 | KEY_Z     | Sega_X/SNES_R       |
 |   22 | KEY_X     | Sega_Y/SNES_Y       |
 |   18 | KEY_Q     | Sega_B/SNES_B       |
 |   14 | KEY_C     | Sega_Z/SNES_X       |
 |   15 | KEY_V     | Sega_A/SNES_L       |
-|   29 | KEY_S     | Home/Menue/ExitGame |
-|   31 | KEY_R     | Sega_C/SNES_A       |
-|   28 | KEY_W     | SNES_Select         |
-|   30 | KEY_A     | Start               |
+|    3 | KEY_S     | Start               |
+|   17 | KEY_R     | Sega_C/SNES_A       |
+|    2 | KEY_W     | SNES_Select         |
+|    4 | KEY_A     | Home/Menue/ExitGame |
 
 ### RetroPie 2.0+ Compatibility
 
